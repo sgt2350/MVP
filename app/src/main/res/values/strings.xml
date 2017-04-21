@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ActionRv</string>
+    <String-array name="name">
+        <item>Anju</item>
+        <item>Apeksha</item>
+        <item>Danya</item>
+        <item>Rekha</item>
+        <item>Soujanya</item>
+    </String-array>
+    <String-array name="email">
+        <item>Anju@gmail.com</item>
+        <item>Apeksha@gmail.com</item>
+        <item>Danya@gmail.com</item>
+        <item>Rekha@gmail.com</item>
+        <item>Soujanya@gmail.com</item>
+    </String-array>
+
+</resources>
