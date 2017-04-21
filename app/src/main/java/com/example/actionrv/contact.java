@@ -23,7 +23,7 @@ public class contact {
     }
 
     public contact (int img_id, String name , String email){
-        this.
+
     }
     public int getImg_id() {
         return img_id;

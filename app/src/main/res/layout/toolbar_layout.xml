@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:id="@+id/toolbar"
-    android:background="#f3333333"
+    android:background="#ff33"
     android:minHeight="?attr/actionBarSize"
     app:theme="@style/Base.Theme.AppCompat.Light.DarkActionBar"
     >
@@ -15,11 +15,22 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="0 item selected"
+            android:text="MAC"
             android:id="@+id/counter_text"
             android:textSize="18dp"
             android:textColor="#ffffff"
             android:textStyle="bold"
             />
+
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignParentEnd="true"-->
+            <!--android:layout_alignParentRight="true"-->
+            <!--android:layout_alignParentTop="true"-->
+            <!--android:layout_marginEnd="5dp"-->
+            <!--android:layout_marginRight="5dp"-->
+            <!--android:scaleX="4dp"-->
+            <!--android:src="@drawable/download" />-->
     </RelativeLayout>
 </android.support.v7.widget.Toolbar>
